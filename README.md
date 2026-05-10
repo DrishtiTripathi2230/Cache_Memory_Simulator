@@ -148,6 +148,5 @@ Both policies use a **set + list/queue pair**: the set for fast hit/miss detecti
 
 ## Author
 
-**Drishti Tripathi**  
-B.Tech Computer Science | 2nd Year  
+**Drishti Tripathi**   
 [GitHub](https://github.com/DrishtiTripathi2230)
