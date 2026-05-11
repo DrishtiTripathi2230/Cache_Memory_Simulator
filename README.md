@@ -58,7 +58,7 @@ Access 1 -> HIT  | Cache: [1, 2, 3]   ← order unchanged
 ### Requirements
 - g++ compiler (C++11 or later)
 
-### Compile
+### compile
 ```bash
 g++ CacheMemory.cpp -o CacheMemory
 ```
