@@ -128,7 +128,7 @@ Both policies use a **set + list/queue pair**: the set for fast hit/miss detecti
 
 ## Known Limitations & Future Improvements
 
-- Current DFT implementation is O(n²) — real systems use FFT which is O(n log n)
+
 - Access sequence is hardcoded — future version will accept user input
 - Write policies (write-through, write-back) not yet implemented
 - Could add MRU (Most Recently Used) and Random replacement policies
